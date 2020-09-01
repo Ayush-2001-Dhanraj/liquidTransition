@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.landing {
+  display: flex;
+  justify-content: space-around;
+  height: 100vh;
+
+}
+
+.intro {
+  padding: 2% 3%;
+  margin-right: 2%;
+  font-style: arial;
+  align-self: center;
+}
+
+.intro h2 {
+  font-size: 2vw;
+  margin-bottom: 2%;
+}
+
+.intro p {
+  font-size: 1vw;
+}
+
+.distortion {
+  height: 80vh;
+  width: 50%;
+  align-self: flex-end;
+}
